@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Aphrodite</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="phone_error">Please enter a valid phone number</string>
+    <string name="otpError">Please enter OTP</string>
+</resources>

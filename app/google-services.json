@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "215357734118",
+    "project_id": "aphrodite-463d8",
+    "storage_bucket": "aphrodite-463d8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:215357734118:android:e61c43945d50c82bb1cf27",
+        "android_client_info": {
+          "package_name": "com.example.aphrodite"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "215357734118-i38k07saurosivno3vdhecho1gln0133.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.aphrodite",
+            "certificate_hash": "74527de3007d1fb145b9ac7ad96244cfb8b7b27f"
+          }
+        },
+        {
+          "client_id": "215357734118-fa6na9pm9htprpiqmcrv6559bhsfhpo8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2pj_PRqNE7Y6eB1dvdK3VFFveysAh1Ic"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "215357734118-fa6na9pm9htprpiqmcrv6559bhsfhpo8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
